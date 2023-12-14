@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevtrail"
+  site-url: "https://level14taken.github.io/nbdevtrail"
+  description: "nbdev trail 1"
+  repo-branch: main
+  repo-url: "https://github.com/level14taken/nbdevtrail"
