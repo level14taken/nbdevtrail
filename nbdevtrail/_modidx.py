@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://level14taken.github.io',
                 'git_url': 'https://github.com/level14taken/nbdevtrail',
                 'lib_path': 'nbdevtrail'},
-  'syms': {'nbdevtrail.core': {'nbdevtrail.core.foo': ('core.html#foo', 'nbdevtrail/core.py')}}}
+  'syms': { 'nbdevtrail.core': {'nbdevtrail.core.foo': ('core.html#foo', 'nbdevtrail/core.py')},
+            'nbdevtrail.nbdevtrail1': { 'nbdevtrail.nbdevtrail1.foo': ('core.html#foo', 'nbdevtrail/nbdevtrail1.py'),
+                                        'nbdevtrail.nbdevtrail1.say_hello': ('core.html#say_hello', 'nbdevtrail/nbdevtrail1.py')}}}

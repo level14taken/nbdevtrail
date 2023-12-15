@@ -16,7 +16,22 @@ pip install nbdevtrail
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+say_hello('Tanu'),say_hello('manu')
 ```
 
-    2
+    ('Hello Tanu!', 'Hello manu!')
+
+``` python
+say_hello('Sanjay')
+```
+
+    'Hello Sanjay!'
+
+``` python
+from IPython.display import display,Video
+Video('https://www.youtube.com/watch?v=-BhrQx1NdIU')
+```
+
+<video src="https://www.youtube.com/watch?v=-BhrQx1NdIU" controls  >
+      Your browser does not support the <code>video</code> element.
+    </video>
