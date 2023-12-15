@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdevtrail",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdevtrail",
+    "section": "Install",
+    "text": "Install\npip install nbdevtrail"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdevtrail",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nsay_hello('Tanu'),say_hello('manu')\n\n('Hello Tanu!', 'Hello manu!')\n\n\n\nsay_hello('Sanjay')\n\n'Hello Sanjay!'\n\n\n\nfrom IPython.display import display,Video\nVideo('https://www.youtube.com/watch?v=-BhrQx1NdIU')\n\n\n      Your browser does not support the video element."
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "nbdevtrail1",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsource\n\n\nfoo\n\n foo ()\n\n\nassert say_hello('Hamel')== 'Hello Hamel!'\n\n\nfrom fastcore.test import *\n\n\ntest_eq(say_hello('Hamel'),'Hello Hamel!')"
+  }
+]
